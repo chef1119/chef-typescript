@@ -1,25 +1,5 @@
 <div align="center">
-<h1>React+TypeScript Cheatsheets</h1>
-
-<a href="https://github.com/typescript-cheatsheets/react-typescript-cheatsheet/issues/81">
-  <img
-    height="90"
-    width="90"
-    alt="react + ts logo"
-    src="https://user-images.githubusercontent.com/6764957/53868378-2b51fc80-3fb3-11e9-9cee-0277efe8a927.png"
-    align="left"
-  />
-</a>
-
-<p>Cheatsheets for experienced React developers getting started with TypeScript</p>
-
-[**Web docs**](https://react-typescript-cheatsheet.netlify.app/docs/basic/setup) |
-[中文翻译](https://github.com/fi3ework/blog/tree/master/react-typescript-cheatsheet-cn) |
-[**Español**](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet-es) |
-[**Português**](https://github.com/typescript-cheatsheets/react-pt) |
-[Contribute!](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet/blob/master/CONTRIBUTING.md) |
-[Ask!](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet/issues/new/choose)
-
+<h1>TypeScript Sheets</h1>
 </div>
 
 ---
