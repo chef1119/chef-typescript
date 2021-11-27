@@ -2,10 +2,6 @@
   "name": "chef-typescript",
   "version": "1.0.0",
   "description": "this package.json is just for maintenance work",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/typescript-cheatsheets/react-typescript-cheatsheet.git"
-  },
   "keywords": [
     "react",
     "typescript",
@@ -13,10 +9,6 @@
   ],
   "author": "chef",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/typescript-cheatsheets/react-typescript-cheatsheet/issues"
-  },
-  "homepage": "https://github.com/typescript-cheatsheets/react-typescript-cheatsheet#readme",
   "scripts": {
     "format-readme": "prettier --write \"README.md\"",
     "gen-readme": "node genReadme.js",
